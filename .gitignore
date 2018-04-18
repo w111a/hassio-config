@@ -24,3 +24,5 @@ ip_bans.yaml
 !/.gitignore
 config
 ozw_config
+google_calendars.yaml
+.google.token
