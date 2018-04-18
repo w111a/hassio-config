@@ -364,3 +364,11 @@ android5d497a92f5785c65_30:
   name: android-5d497a92f5785c65
   picture:
   track: false
+
+android5d497a92f5785c65_31:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:C6:E2:7D
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
