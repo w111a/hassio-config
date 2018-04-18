@@ -1,0 +1,50 @@
+sensor.dark_sky_visibility:
+  friendly_name: Visibility
+  icon: mdi:eye
+sensor.dark_sky_apparent_temperature:
+  friendly_name: Apparent Temperature
+sensor.dark_sky_daily_high_apparent_temperature:
+  friendly_name: Daily High Apparent Temperature
+sensor.dark_sky_cloud_coverage:
+  friendly_name: Cloud Coverage
+sensor.dark_sky_daily_high_temperature:
+  friendly_name: Daily High Temperature
+sensor.dark_sky_daily_low_apparent_temperature:
+  friendly_name: Daily Low Apparent Temperature
+sensor.dark_sky_daily_summary:
+  friendly_name: Weather Daily Summary
+sensor.dark_sky_wind_bearing:
+  friendly_name: Wind Bearing
+sensor.dark_sky_wind_speed:
+  friendly_name: Wind Speed
+sensor.dark_sky_uv_index:
+  friendly_name: UV Index
+sensor.dark_sky_precip_probability:
+  friendly_name: Precip Probability
+sensor.dark_sky_dew_point:
+  friendly_name: Dew Point
+sensor.dark_sky_daily_max_precip_intensity:
+  friendly_name: Daily Max Precip Intensity
+sensor.dark_sky_daily_low_temperature:
+  friendly_name: Daily Low Temperature
+sensor.dark_sky_humidity:
+  friendly_name: Outside Humidity
+sensor.dark_sky_temperature:
+  friendly_name: Outside Temperature
+sensor.dark_sky_pressure:
+  friendly_name: Barometric Pressure
+sensor.dark_sky_hourly_summary:
+  friendly_name: Weather Hourly Summary
+sensor.dark_sky_summary:
+  friendly_name: Weather Summary
+sensor.dark_sky_precip_intensity:
+  friendly_name: Precip Intensity
+sensor.dark_sky_ozone:
+  friendly_name: Outside Ozone
+sensor.dark_sky_minutely_summary:
+  friendly_name: Weather Minutely Summary
+sensor.dark_sky_precip:
+  friendly_name: Precip
+switch.hdmi_8:
+  friendly_name: Amazon FireTV
+  vendor_name: Amazon

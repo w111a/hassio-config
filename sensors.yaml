@@ -1,0 +1,39 @@
+  
+
+# Weather
+    #Darksky
+  - platform: darksky
+    api_key: !secret darksky_api_key
+    monitored_conditions:
+      - summary
+      - precip_type
+      - precip_intensity
+      - precip_probability
+      - temperature
+      - apparent_temperature
+      - dew_point
+      - wind_speed
+      - wind_bearing
+      - cloud_cover
+      - humidity
+      - pressure
+      - visibility
+      - ozone
+      #- minutely_summary
+      - hourly_summary
+      - daily_summary
+      - temperature_max
+      - temperature_min
+      - apparent_temperature_min
+      - apparent_temperature_max
+      - precip_intensity_max
+      - uv_index
+    update_interval: 00:10
+    units: ca
+#Speedtest
+  - platform: speedtest
+    monitored_conditions:
+      - ping
+      - download
+      - upload
+    manual: true

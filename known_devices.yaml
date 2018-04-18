@@ -1,0 +1,366 @@
+
+hassio:
+  hide_if_away: false
+  icon:
+  mac: B8:27:EB:0F:C7:9A
+  name: Hassio
+  picture:
+  track: false
+  vendor: Raspberry Pi Foundation
+
+tony_s4:
+  hide_if_away: false
+  icon:
+  mac: CC:3A:61:0C:95:B3
+  name: Tony WIFI
+  picture:
+  track: true
+  vendor: SAMSUNG ELECTRO MECHANICS CO., LTD.
+
+amazon_firetv:
+  hide_if_away: false
+  icon:
+  mac: F0:27:2D:93:C3:C2
+  name: Amazon FireTV
+  picture:
+  track: false
+  vendor: unknown
+
+googlehome:
+  hide_if_away: false
+  icon:
+  mac: 48:D6:D5:64:3F:E7
+  name: Google-Home
+  picture:
+  track: false
+  vendor: unknown
+
+googlehome_2:
+  hide_if_away: false
+  icon:
+  mac: 48:D6:D5:D3:9E:45
+  name: Google-Mini
+  picture:
+  track: false
+  vendor: unknown
+
+owlet:
+  hide_if_away: false
+  icon:
+  mac: B0:72:BF:C2:A2:1C
+  name: Owlet
+  picture:
+  track: false
+  vendor: unknown
+
+tblack:
+  hide_if_away: false
+  icon:
+  mac: A4:E4:B8:AD:54:62
+  name: TBlack
+  picture:
+  track: false
+  vendor: BlackBerry RTS
+
+android59a108bfc11c7dea:
+  hide_if_away: false
+  icon:
+  mac: 10:A5:D0:4A:41:6E
+  name: Carla WIFI
+  picture:
+  track: true
+  vendor: Murata Manufacturing Co., Ltd.
+
+android5d497a92f5785c65:
+  hide_if_away: false
+  icon:
+  mac: 00:E0:4C:1B:C5:9A
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+tony_gps:
+  hide_if_away: false
+  icon:
+  mac:
+  name: Tony GPS
+  picture:
+  track: true
+  vendor:
+
+carla_gps:
+  hide_if_away: false
+  icon:
+  mac:
+  name: Carla GPS
+  picture:
+  track: true
+  vendor:
+
+nxp4330:
+  hide_if_away: true
+  icon:
+  mac: 80:38:FD:25:1E:D6
+  name: NXP4330
+  picture:
+  track: false
+  vendor: LeapFrog Enterprises, Inc.
+
+android5d497a92f5785c65_2:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:62:94:96
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_3:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:B0:50:A4
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_4:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:8D:65:8B
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_5:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:ED:AD:59
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_6:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:7E:FD:EF
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_7:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:77:F3:2A
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_8:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:15:01:9E
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_9:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:9D:E4:9D
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_10:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:77:D8:8B
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_11:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:D2:4D:C4
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_12:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:86:51:FF
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_13:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:AE:CC:B0
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_14:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:D9:3E:9B
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_15:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:5B:09:9D
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_16:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:C3:9C:44
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_17:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:06:6D:3D
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_18:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:6F:25:DE
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_19:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:E6:32:C1
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_20:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:13:D6:ED
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_21:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:6D:E6:FA
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_22:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:95:8B:E1
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_23:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:AC:70:FB
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_24:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:68:D5:1E
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_25:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:52:0F:23
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: unknown
+
+android5d497a92f5785c65_26:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:78:AB:20
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_27:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:A8:65:F1
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+  vendor: REALTEK SEMICONDUCTOR CORP.
+
+android5d497a92f5785c65_28:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:A9:6D:79
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+
+android5d497a92f5785c65_29:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:8E:11:DB
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
+
+android5d497a92f5785c65_30:
+  hide_if_away: true
+  icon:
+  mac: 00:E0:4C:3F:F3:40
+  name: android-5d497a92f5785c65
+  picture:
+  track: false
